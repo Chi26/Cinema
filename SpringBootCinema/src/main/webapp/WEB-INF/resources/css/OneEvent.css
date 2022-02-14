@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+.eventMain{
+	margin: 40px 0
+
+  }
+.eventMain figure{
+    position: relative;
+    width: 20%;
+    float: left;
+    text-align: center;
+    overflow: hidden
+}
+
+.eventMain .eventInfo {
+    margin-left: 25%;
+    padding-top: 10px;
+    padding-left: 30px
+}
+
+.eventMain .eventInfo h1
+ {
+    font-size: 40px;
+    line-height: 1.2em;
+    color: #333;
+    margin: 0 0 20px
+}
+.eventMain .eventInfo ul li
+ {
+    margin: 10px 0;
+    line-height: 1.6em;
+    vertical-align: top
+}
+
+.eventMain .eventInfo ul li .bbsArticle {
+    margin-top: 10px
+}
+
+.eventMain .eventInfo ul li p {
+    display: inline-block;
+    vertical-align: top
+}
+
+.eventMain .eventInfo ul li p.title {
+    color: #08acb2
+}
+.eventMain figure img {
+    max-width: 99%;
+    border: 1px solid #eaeaea
+}

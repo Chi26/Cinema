@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+
+body {
+	height: 100%;
+}
+
+.buts {
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-left:250px;
+	margin-top:50px;
+/* 	border: 5px solid cornflowerblue; */
+}
+
+
+.edge{
+
+	position: absolute;
+	margin-left:200px;
+	margin-top:130px;
+}
+
+.tbstyle { 
+	position: absolute; 
+	text-align:center;
+	margin-top:150px;
+	margin-bottom:300px;
+}
+
+.pageindex{
+	position: absolute;
+	margin-left:750px;
+	margin-top:100px;
+	margin-bottom:100px;
+	
+}
+tr{
+text-align:left;
+margin-bottom:10px;
+}
+.tb{
+
+margin-left:15%;
+margin-right:15%;
+}
+.searchOrderBut{	
+	position: absolute;
+	width: 150px;
+	height: 100px;
+	margin-left:250px;
+	margin-top:100px;
+}
+.totalpage{
+	position: absolute;
+	margin-left:200px;
+	margin-top:110px;
+	
+}
+.updatetable{
+	
+/* 	position: absolute; */
+/* 	margin-left:500px; */
+	margin-top:770px;
+	margin-right:50px;
+	margin-bottom:300px;
+	
+}
+.createtable{
+	
+	margin-right:50px;
+}
+.inputst{
+ 	width:50px; 
+}
